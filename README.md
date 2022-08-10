@@ -41,18 +41,18 @@
 -  결측치는 반드시 분석에서 제외되기 때문에 분석결과의 신뢰성 문제될 수 있음<br>
 <br>
 회귀분석의 다양한 유형<br>
-·         선형 회귀(Linear regression) ...<br>
-·         로지스틱 회귀(Logistic regression) ...<br>
-·         리지 회귀(Ridge regression) ...<br>
-·         라쏘 회귀(Lasso regression) ...<br>
-·         다항 회귀(Polynomial regression) <br><br>
+·      선형 회귀(Linear regression) ...<br>
+·      로지스틱 회귀(Logistic regression) ...<br>
+·      리지 회귀(Ridge regression) ...<br>
+·      라쏘 회귀(Lasso regression) ...<br>
+·      다항 회귀(Polynomial regression) <br><br>
 
 회귀분석의 다양한 유형<br>
-·         선형 회귀(Linear regression) ...<br>
-·         로지스틱 회귀(Logistic regression) ...<br>
-·         리지 회귀(Ridge regression) ...<br>
-·         라쏘 회귀(Lasso regression) ...<br>
-·         다항 회귀(Polynomial regression)  <br><br>
+·      선형 회귀(Linear regression) ...<br>
+·      로지스틱 회귀(Logistic regression) ...<br>
+·      리지 회귀(Ridge regression) ...<br>
+·      라쏘 회귀(Lasso regression) ...<br>
+·      다항 회귀(Polynomial regression)  <br><br>
 
 단순 선형 회귀를 통한 회귀 이해<br>
 
