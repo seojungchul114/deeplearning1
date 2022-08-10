@@ -53,8 +53,7 @@
 X축이 주택의 크기이고, Y축이 가격이라할 경우 1차 함수식으로 모델링할 수 있다.
  
 ! $Y^ = ω_0 + ω_1 ∗ $X <br>
-<br>![Alt text](/path/to/img.jpg)
-![Alt text](/path/to/img.jpg "Optional title")
+
 <br>
 <br>
 <br>
