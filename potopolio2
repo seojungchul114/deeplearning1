@@ -1,0 +1,34 @@
+Computing Derivertive
+
+#Computing derivartive (미분 계산)
+
+1.도함수의 정의(dx , dJ , dy 등 으로 표시)
+도함수는 특정값 X의 값이 아닌 임의의 X값에 관한 순간 변화를 일반화 해서 나타낸것이다.
+즉 y=f(x) 라는 식에서 x에 관해서 미분 해서 얻어지는 함수 y='f(x) 라 표현 한다.
+
+
+2. 편미분 이란 ?
+어떤 함수에 대해 미분 하는 것인데,
+즉 f(x,y) = 3x^2 + yx + b 라는 식에서 x 에관한 편미분 d'f/dx = 6x + y 되며,
+y에 대한 편미분 d'f/dy = 3x^2 + x 로 될수 있다.
+
+3.Foward Propagation(순전파) 와 Backward Propagation(역전파) 이란 ?
+알고리즘에서 어떤 노드에서 넘어온 입력 값을 계산해 출력값에 보내는 것을 Forward,
+역으로 출력 값에서 입력 값 쪽으로 보내는 것을 Backward Propagation 이라 한다.
+
+그러면 어떻게 계산 되어 지는지 표를 톻해서 보겠읍니다.
+
+
+
+a = 5
+                                      v = u + a              f = 3(v)
+b = 3             
+                      u = bc               
+C = 2
+
+
+
+
+
+
+
